@@ -1,0 +1,301 @@
+City,State,Number_of_Shootings,Population,Annual_Shootings_per_100k
+Abilene,Texas,8,125182,0.71
+Akron,Ohio,9,190469,0.53
+Albuquerque,New Mexico,73,564559,1.44
+Alexandria,Virginia,3,159467,0.21
+Allen,Texas,4,104627,0.42
+Allentown,Pennsylvania,5,125845,0.44
+Amarillo,Texas,23,200393,1.28
+Anaheim,California,16,346824,0.51
+Antioch,California,5,115291,0.48
+Arlington,Texas,17,394266,0.48
+Arlington,Virginia,3,238643,0.14
+Arvada,Colorado,8,124402,0.71
+Atlanta,Georgia,37,498715,0.82
+Aurora,Colorado,24,386261,0.69
+Aurora,Illinois,2,180542,0.12
+Austin,Texas,46,961855,0.53
+Bakersfield,California,40,403455,1.1
+Baltimore,Maryland,31,585708,0.59
+Baton Rouge,Louisiana,16,227470,0.78
+Beaumont,Texas,8,115282,0.77
+Bellevue,Washington,1,151854,0.07
+Berkeley,California,1,124321,0.09
+Billings,Montana,17,117116,1.61
+Birmingham,Alabama,15,200733,0.83
+Boise,Idaho,17,235684,0.8
+Boston,Massachusetts,10,675647,0.16
+Boulder,Colorado,6,108250,0.62
+Bridgeport,Connecticut,1,148654,0.07
+Brockton,Massachusetts,3,105643,0.32
+Broken Arrow,Oklahoma,1,113540,0.1
+Brownsville,Texas,6,186738,0.36
+Buffalo,New York,6,278349,0.24
+Burbank,California,4,107337,0.41
+Cambridge,Massachusetts,1,118403,0.09
+Cape Coral,Florida,5,194016,0.29
+Carrollton,Texas,3,133434,0.25
+Cary,North Carolina,1,174721,0.06
+Cedar Rapids,Iowa,5,137710,0.4
+Centennial,Colorado,7,108418,0.72
+Chandler,Arizona,11,275987,0.44
+Charleston,South Carolina,3,150227,0.22
+Charlotte,North Carolina,27,874579,0.34
+Chattanooga,Tennessee,13,181099,0.8
+Chesapeake,Virginia,3,249422,0.13
+Chicago,Illinois,56,2746388,0.23
+Chico,California,5,101475,0.55
+Chula Vista,California,7,275487,0.28
+Cincinnati,Ohio,8,309317,0.29
+Clarksville,Tennessee,7,166722,0.47
+Clearwater,Florida,4,117292,0.38
+Cleveland,Ohio,16,372624,0.48
+Clovis,California,2,120124,0.18
+College Station,Texas,4,120511,0.37
+Colorado Springs,Colorado,28,478961,0.65
+Columbia,Maryland,1,104681,0.11
+Columbia,Missouri,8,126254,0.7
+Columbia,South Carolina,3,136632,0.24
+Columbus,Georgia,6,206922,0.32
+Columbus,Ohio,50,905748,0.61
+Concord,California,2,125410,0.18
+Concord,North Carolina,4,105240,0.42
+Coral Springs,Florida,1,134394,0.08
+Corona,California,5,157136,0.35
+Corpus Christi,Texas,17,317863,0.59
+Costa Mesa,California,1,111918,0.1
+Dallas,Texas,26,1304379,0.22
+Davenport,Iowa,5,101724,0.55
+Davie,Florida,2,105691,0.21
+Dayton,Ohio,8,137644,0.65
+Dearborn,Michigan,5,109976,0.51
+Denton,Texas,6,139869,0.48
+Denver,Colorado,55,715522,0.85
+Des Moines,Iowa,5,214133,0.26
+Detroit,Michigan,31,639111,0.54
+Downey,California,2,114355,0.19
+Durham,North Carolina,7,283506,0.27
+East Los Angeles,California,3,118786,0.28
+Edinburg,Texas,5,100243,0.55
+El Cajon,California,4,106215,0.42
+El Monte,California,4,109450,0.41
+El Paso,Texas,24,678815,0.39
+Elgin,Illinois,1,114797,0.1
+Elizabeth,New Jersey,1,137298,0.08
+Elk Grove,California,3,176124,0.19
+Escondido,California,5,151038,0.37
+Eugene,Oregon,9,176654,0.57
+Evansville,Indiana,15,117298,1.42
+Everett,Washington,6,110629,0.6
+Fairfield,California,1,119881,0.09
+Fargo,North Dakota,2,125990,0.18
+Fayetteville,North Carolina,11,208501,0.59
+Federal Way,Washington,9,101030,0.99
+Fontana,California,13,208393,0.69
+Fort Collins,Colorado,7,169810,0.46
+Fort Lauderdale,Florida,7,182760,0.43
+Fort Wayne,Indiana,7,263886,0.29
+Fort Worth,Texas,28,918915,0.34
+Fremont,California,8,230504,0.39
+Fresno,California,33,542107,0.68
+Frisco,Texas,1,200509,0.06
+Fullerton,California,5,143617,0.39
+Gainesville,Florida,4,141085,0.32
+Garden Grove,California,2,171949,0.13
+Garland,Texas,8,246018,0.36
+Gilbert,Arizona,5,267918,0.21
+Glendale,Arizona,19,248325,0.85
+Glendale,California,1,196543,0.06
+Grand Prairie,Texas,4,196100,0.23
+Grand Rapids,Michigan,2,198917,0.11
+Greeley,Colorado,11,108795,1.12
+Green Bay,Wisconsin,4,107395,0.41
+Greensboro,North Carolina,9,299035,0.33
+Gresham,Oregon,5,114247,0.49
+Hampton,Virginia,2,137148,0.16
+Hartford,Connecticut,4,121054,0.37
+Hayward,California,7,162954,0.48
+Henderson,Nevada,13,317610,0.45
+Hialeah,Florida,3,223109,0.15
+High Point,North Carolina,5,114059,0.49
+Highlands Ranch,Colorado,1,103444,0.11
+Hillsboro,Oregon,6,106447,0.63
+Hollywood,Florida,3,153067,0.22
+Houston,Texas,117,2304580,0.56
+Huntington Beach,California,5,198711,0.28
+Huntsville,Alabama,12,215006,0.62
+Independence,Missouri,6,123011,0.54
+Inglewood,California,5,107762,0.52
+Irvine,California,1,307670,0.04
+Irving,Texas,9,256684,0.39
+Jackson,Mississippi,11,153701,0.8
+Jacksonville,Florida,51,949611,0.6
+Joliet,Illinois,5,150362,0.37
+Jurupa Valley,California,5,105053,0.53
+Kent,Washington,9,136588,0.73
+Killeen,Texas,6,153095,0.44
+Knoxville,Tennessee,12,190740,0.7
+Lafayette,Louisiana,5,121374,0.46
+Lakeland,Florida,12,112641,1.18
+Lakewood,Colorado,20,155984,1.42
+Lancaster,California,11,173516,0.7
+Lansing,Michigan,5,112644,0.49
+Laredo,Texas,7,255205,0.3
+Las Cruces,New Mexico,20,111385,2.0
+Las Vegas,Nevada,82,641903,1.42
+Lehigh Acres,Florida,3,114287,0.29
+Lincoln,Nebraska,8,291082,0.31
+Little Rock,Arkansas,12,202591,0.66
+Long Beach,California,26,466742,0.62
+Los Angeles,California,154,3898747,0.44
+Louisville,Kentucky,36,246161,1.62
+Lowell,Massachusetts,1,115554,0.1
+Lubbock,Texas,11,257141,0.48
+Lynn,Massachusetts,5,101253,0.55
+Madison,Wisconsin,3,269840,0.12
+Manchester,New Hampshire,6,115644,0.58
+Memphis,Tennessee,28,633104,0.49
+Menifee,California,2,102527,0.22
+Meridian,Idaho,4,117635,0.38
+Mesa,Arizona,36,504258,0.79
+Mesquite,Texas,6,150108,0.44
+Metairie,Louisiana,8,143507,0.62
+Miami,Florida,43,442241,1.08
+Miami Gardens,Florida,8,111640,0.8
+Midland,Texas,11,132524,0.92
+Milwaukee,Wisconsin,25,577222,0.48
+Minneapolis,Minnesota,15,429954,0.39
+Miramar,Florida,2,134721,0.16
+Mobile,Alabama,8,187041,0.48
+Modesto,California,13,218464,0.66
+Montgomery,Alabama,6,200603,0.33
+Moreno Valley,California,5,208634,0.27
+Murfreesboro,Tennessee,1,152769,0.07
+Murrieta,California,1,110949,0.1
+Nampa,Idaho,5,100200,0.55
+Naperville,Illinois,1,149540,0.07
+New Orleans,Louisiana,10,383997,0.29
+New York,New York,48,8804190,0.06
+Newark,New Jersey,9,311549,0.32
+Newport News,Virginia,6,186247,0.36
+Norfolk,Virginia,10,238005,0.47
+Norman,Oklahoma,2,128026,0.17
+North Charleston,South Carolina,6,114852,0.58
+North Las Vegas,Nevada,10,262527,0.42
+Norwalk,California,2,102773,0.22
+Oakland,California,14,440646,0.35
+Oceanside,California,2,174068,0.13
+Odessa,Texas,11,114428,1.07
+Olathe,Kansas,4,141290,0.31
+Omaha,Nebraska,18,486051,0.41
+Ontario,California,10,175265,0.63
+Orange,California,3,139911,0.24
+Orlando,Florida,33,307573,1.19
+Overland Park,Kansas,3,197238,0.17
+Oxnard,California,4,202063,0.22
+Palm Bay,Florida,7,119760,0.65
+Palmdale,California,8,169450,0.52
+Pasadena,California,7,138699,0.56
+Pasadena,Texas,3,151950,0.22
+Paterson,New Jersey,8,159732,0.56
+Pearland,Texas,4,125828,0.35
+Peoria,Arizona,7,190985,0.41
+Peoria,Illinois,4,113150,0.39
+Philadelphia,Pennsylvania,41,1603797,0.28
+Phoenix,Arizona,123,1608139,0.85
+Pittsburgh,Pennsylvania,11,302971,0.4
+Plano,Texas,4,285494,0.16
+Pomona,California,6,151713,0.44
+Pompano Beach,Florida,6,112046,0.59
+Port St. Lucie,Florida,3,204851,0.16
+Portland,Oregon,30,652503,0.51
+Providence,Rhode Island,2,190934,0.12
+Provo,Utah,3,115162,0.29
+Pueblo,Colorado,27,111876,2.68
+Quincy,Massachusetts,1,101636,0.11
+Raleigh,North Carolina,9,467665,0.21
+Rancho Cucamonga,California,4,174453,0.25
+Reno,Nevada,14,264165,0.59
+Renton,Washington,5,106785,0.52
+Rialto,California,7,104026,0.75
+Richmond,California,3,116448,0.29
+Richmond,Virginia,11,226610,0.54
+Rio Rancho,New Mexico,2,104046,0.21
+Riverside,California,10,314998,0.35
+Riverview,Florida,5,107396,0.52
+Roanoke,Virginia,7,100011,0.78
+Rochester,Minnesota,1,121395,0.09
+Rochester,New York,8,211328,0.42
+Rockford,Illinois,7,148655,0.52
+Roseville,California,1,147773,0.08
+Round Rock,Texas,5,119468,0.47
+Sacramento,California,26,524943,0.55
+Salem,Oregon,14,175535,0.89
+Salinas,California,5,163542,0.34
+San Antonio,Texas,95,1434625,0.74
+San Bernardino,California,28,222101,1.4
+San Diego,California,37,1386932,0.3
+San Francisco,California,24,873965,0.31
+San Jose,California,25,1013240,0.27
+San Mateo,California,1,105661,0.11
+Sandy Springs,Georgia,1,108080,0.1
+Santa Ana,California,13,310227,0.47
+Santa Clara,California,3,127647,0.26
+Santa Clarita,California,5,228673,0.24
+Santa Maria,California,5,109707,0.51
+Santa Rosa,California,1,178127,0.06
+Savannah,Georgia,12,147780,0.9
+Scottsdale,Arizona,10,241361,0.46
+Seattle,Washington,18,737015,0.27
+Shreveport,Louisiana,16,187593,0.95
+Simi Valley,California,1,126356,0.09
+Sioux Falls,South Dakota,7,192517,0.4
+South Bend,Indiana,7,103453,0.75
+Sparks,Nevada,11,108445,1.13
+Spokane,Washington,28,228989,1.36
+Spokane Valley,Washington,4,102976,0.43
+Spring Hill,Florida,5,113568,0.49
+Springfield,Illinois,3,114394,0.29
+Springfield,Massachusetts,2,155929,0.14
+Springfield,Missouri,17,169176,1.12
+St. Louis,Missouri,40,301578,1.47
+St. Paul,Minnesota,12,311527,0.43
+St. Petersburg,Florida,10,258308,0.43
+Stamford,Connecticut,1,135470,0.08
+Stockton,California,20,320804,0.69
+Sugar Land,Texas,2,111026,0.2
+Sunnyvale,California,5,155805,0.36
+Surprise,Arizona,4,143148,0.31
+Syracuse,New York,8,148620,0.6
+Tacoma,Washington,19,219346,0.96
+Tallahassee,Florida,9,196169,0.51
+Tampa,Florida,16,384959,0.46
+Temecula,California,3,110003,0.3
+Tempe,Arizona,15,180587,0.92
+Thornton,Colorado,6,141867,0.47
+Thousand Oaks,California,1,126966,0.09
+Toledo,Ohio,13,270871,0.53
+Topeka,Kansas,10,126587,0.88
+Torrance,California,5,147067,0.38
+Tucson,Arizona,54,542629,1.11
+Tulsa,Oklahoma,41,413066,1.1
+Tyler,Texas,1,105995,0.1
+Vacaville,California,3,102386,0.33
+Vallejo,California,6,126090,0.53
+Vancouver,Washington,15,190915,0.87
+Victorville,California,9,134810,0.74
+Virginia Beach,Virginia,10,459470,0.24
+Visalia,California,6,141384,0.47
+Waco,Texas,5,138486,0.4
+Warren,Michigan,3,139387,0.24
+Waterbury,Connecticut,1,114403,0.1
+West Covina,California,2,109501,0.2
+West Jordan,Utah,9,116961,0.85
+West Palm Beach,Florida,7,117415,0.66
+Westminster,Colorado,12,116317,1.15
+Wichita,Kansas,19,397532,0.53
+Wichita Falls,Texas,5,102316,0.54
+Wilmington,North Carolina,7,115451,0.67
+Winston-Salem,North Carolina,6,249545,0.27
+Worcester,Massachusetts,1,206518,0.05
+Yonkers,New York,3,211569,0.16
